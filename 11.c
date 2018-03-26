@@ -1,6 +1,6 @@
-#include<iostream.h>
+#include<stdio.h>
 #include<conio.h>
-voidmain();
+voidmain()
 {
   char a;
   clrscr();
